@@ -1,5 +1,5 @@
 # Caleb_Lykken
-<p> this is **my** new *repository*
+this is **my** new *repository*
 ## Favorite Geo Science Topics
 * Rockfall
 * Earth Quakes
